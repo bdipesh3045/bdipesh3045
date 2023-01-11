@@ -1,5 +1,5 @@
 ### Hi there 👋
-computer Dipesh Sharma
+I am a tech enthusiast and i enjoy coding and writing neat piece of code.
 <!--
 **bdipesh3045/bdipesh3045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
