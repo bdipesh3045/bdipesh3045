@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->\
-![snake gif](https://raw.githubusercontent.com/bdipesh3045/bdipesh3045/output/github-contribution-grid-snake.gif)
+-->
+![snake svg](https://raw.githubusercontent.com/bdipesh3045/bdipesh3045/output/github-contribution-grid-snake.svg)
+
 
 <!-- ![snake gif]
 (https://github.com/bdipesh3045/bdipesh3045/blob/output/github-contribution-grid-snake.gif)
